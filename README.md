@@ -10,3 +10,5 @@ Ola sou Bruno tenho a inteção de ser programador estou aprendendo:
 <br>
 <h2><b>Conecte-se</b></h2>
 <a href="https://www.linkedin.com/in/brunnoisaias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+
+[![Brunno stats](https://github-readme-stats.vercel.app/api?username=brunn0dev)](https://github.com/anuraghazra/github-readme-stats)
